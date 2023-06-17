@@ -1,2 +1,2 @@
-build-image:
-	docker build -f Dockerfile.dev -t react-app .
+reset:
+	docker rmi docker-react-web
