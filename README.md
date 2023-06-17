@@ -18,4 +18,8 @@ To start the server, run:
 npm run dev
 ```
 
+The server will then start running on port 3000
+
+### Note:
+
 When adding some new package, or making changes to the `package.json` file, re-build the image and restart the server
