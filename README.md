@@ -15,8 +15,4 @@ The server will then start running on port 3000
 
 ### Note:
 
-When adding some new package, or making changes to the `package.json` file, run:
-```
-make reset
-npm run dev
-```
+When adding some new package, or making changes to the `package.json` file, restart the server using `npm run dev` again.
